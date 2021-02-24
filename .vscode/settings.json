@@ -1,5 +1,5 @@
 {
-    "staticWebApps.appSubpath": "Client",
+    "staticWebApps.appSubpath": "BlazorHubble/Server",
     "staticWebApps.apiSubpath": "Api",
     "staticWebApps.outputSubpath": "wwwroot"
 }
